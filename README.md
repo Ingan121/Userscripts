@@ -1,0 +1,2 @@
+# FuckZombieAds
+Block unblockable ads
